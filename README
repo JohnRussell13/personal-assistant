@@ -2,25 +2,29 @@
 
 ## Description
 
-This is a brief description of my awesome project.
+This is a brief description of AI PA project.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Language model chatbot
+- Google search
 
 ## Installation
 
-Here are the installation instructions for my awesome project.
+Here are the installation instructions for this project:
+
+- Install python
+- Install all required packages
+- Create .env file using .env.example as template
+- Have fun
 
 ## Usage
 
-Here are some instructions on how to use my awesome project.
+Main point of this project is to make an AI chat bot with google search that uses voice recognition as an input.
 
 ## Contributing
 
-Here is how to contribute to my awesome project.
+Feel free to contribue.
 
 ## License
 
