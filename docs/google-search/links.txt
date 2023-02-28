@@ -6,3 +6,6 @@ https://developers.google.com/custom-search/v1/introduction
 
 # search example
 https://developers.google.com/custom-search/v1/using_rest
+
+# search params
+https://developers.google.com/custom-search/v1/reference/rest/v1/cse/list
