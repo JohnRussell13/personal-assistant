@@ -1,0 +1,6 @@
+# list of free TTS services
+https://www.assemblyai.com/blog/the-top-free-speech-to-text-apis-and-open-source-engines/
+
+# easy for python
+https://github.com/mozilla/DeepSpeech/releases/tag/v0.9.3
+https://deepspeech.readthedocs.io/en/r0.9/?badge=latest
