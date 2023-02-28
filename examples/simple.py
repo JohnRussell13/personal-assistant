@@ -24,7 +24,7 @@ response = requests.get(url)
 if response.status_code == 200:
     results = json.dumps(response.json(), indent=2)
 
-    with open("test_resp.json", 'w') as f:
+    with open("examples/test_resp.json", 'w') as f:
         f.write(results)
 else:
     print("Error:", response.status_code, response.text)
