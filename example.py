@@ -2,12 +2,15 @@ import requests
 import json
 import os
 from dotenv import load_dotenv
+import yaml
 
 load_dotenv()
+with open('config.yaml') as f:
+    config = yaml.load(f, Loader=yaml.FullLoader)
 
 GOOGLE_SEARCH_API_KEY = os.environ.get('GOOGLE_SEARCH_API_KEY')
 query = "Greece"
-cx = "b63015b410e5247ba"
+cx = config['GOOGLE_SEARCH']['CX']
 
 url = f"https://www.googleapis.com/customsearch/v1?q={query}&key={GOOGLE_SEARCH_API_KEY}&cx={cx}"
 
