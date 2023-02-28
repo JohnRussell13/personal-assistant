@@ -1,0 +1,350 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Greece",
+        "totalResults": "9",
+        "searchTerms": "Greece",
+        "count": 9,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "017576662512468239146:omuauf_lfve"
+      }
+    ]
+  },
+  "context": {
+    "title": "CS Curriculum",
+    "facets": [
+      [
+        {
+          "anchor": "Lectures",
+          "label": "lectures",
+          "label_with_op": "more:lectures"
+        }
+      ],
+      [
+        {
+          "anchor": "Assignments",
+          "label": "assignments",
+          "label_with_op": "more:assignments"
+        }
+      ],
+      [
+        {
+          "anchor": "Reference",
+          "label": "reference",
+          "label_with_op": "more:reference"
+        }
+      ]
+    ]
+  },
+  "searchInformation": {
+    "searchTime": 0.187592,
+    "formattedSearchTime": "0.19",
+    "totalResults": "9",
+    "formattedTotalResults": "9"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Untitled",
+      "htmlTitle": "Untitled",
+      "link": "https://www.cis.upenn.edu/~elenimi/GREK017.html",
+      "displayLink": "www.cis.upenn.edu",
+      "snippet": "In this course we will also read and discuss Nikos Kazantzakis' masterpiece \"Zorbas.\" Textbook. All the material is written and compiled by the instructor. It\u00a0...",
+      "htmlSnippet": "In this course we will also read and discuss Nikos Kazantzakis&#39; masterpiece &quot;Zorbas.&quot; Textbook. All the material is written and compiled by the instructor. It&nbsp;...",
+      "cacheId": "0u-RjpdNwBcJ",
+      "formattedUrl": "https://www.cis.upenn.edu/~elenimi/GREK017.html",
+      "htmlFormattedUrl": "https://www.cis.upenn.edu/~elenimi/GREK017.html"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "3D Active Sensing Notes Adapted from the following sources ...",
+      "htmlTitle": "3D Active Sensing Notes Adapted from the following sources ...",
+      "link": "http://www1.cs.columbia.edu/~allen/PHOTOPAPERS/allen_blais_slide.pdf",
+      "displayLink": "www1.cs.columbia.edu",
+      "snippet": "Apr 29, 2006 ... International Summer School \u201cDigital Recording and 3D Modeling\u201d, Aghios Nikolaos, Crete, Greece, 24-29 April 2006.",
+      "htmlSnippet": "Apr 29, 2006 <b>...</b> International Summer School \u201cDigital Recording and 3D Modeling\u201d, Aghios Nikolaos, Crete, <b>Greece</b>, 24-29 April 2006.",
+      "cacheId": "OuT8VRDGuloJ",
+      "formattedUrl": "www1.cs.columbia.edu/~allen/PHOTOPAPERS/allen_blais_slide.pdf",
+      "htmlFormattedUrl": "www1.cs.columbia.edu/~allen/PHOTOPAPERS/allen_blais_slide.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ7mlm1qObFLoc1xWOiRFkgY48Uf43zJswaoMA6JT9Y7Oc0pSCXrC-SeJS",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20070918141614-04'00'",
+            "creationdate": "D:20060419085126+02'00'",
+            "creator": "PScript5.dll Version 5.2.2",
+            "author": "msb",
+            "producer": "Acrobat Distiller 7.0.5 (Windows)",
+            "title": "Microsoft PowerPoint - 09_FBlais_Terrestrial_Laser_Scanning.ppt"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///231dae01afe3a309977c1b76fd6f7096ba092915f67cc852a37dc0ed26cda3bf"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "VASILIS F. PAVLIDIS",
+      "htmlTitle": "VASILIS F. PAVLIDIS",
+      "link": "http://www.cs.man.ac.uk/~pavlidiv/VP_CV_short.pdf",
+      "displayLink": "www.cs.man.ac.uk",
+      "snippet": "B.S., Electrical and Computer Engineering, Democritus University of Thrace, Xanthi, Greece, 2000. PROFFESIONAL EXPERIENCE. \u2022 Post-doctoral researcher at the\u00a0...",
+      "htmlSnippet": "B.S., Electrical and Computer Engineering, Democritus University of Thrace, Xanthi, <b>Greece</b>, 2000. PROFFESIONAL EXPERIENCE. \u2022 Post-doctoral researcher at the&nbsp;...",
+      "cacheId": "IQU3ozwkMQsJ",
+      "formattedUrl": "www.cs.man.ac.uk/~pavlidiv/VP_CV_short.pdf",
+      "htmlFormattedUrl": "www.cs.man.ac.uk/~pavlidiv/VP_CV_short.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFRZwp61EFma5EfOzY494pHspbkqm2kkdkeA_AQOXME__4dbe_zRGIc0M",
+            "width": "197",
+            "height": "255"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20120918185008+02'00'",
+            "creationdate": "D:20120918185008+02'00'",
+            "creator": "PScript5.dll Version 5.2.2",
+            "author": "VFP",
+            "producer": "Acrobat Distiller 9.5.0 (Windows)",
+            "title": "Microsoft Word - VP_CV_Sept12_short"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///7da8aeb83d548a57705fe7fc76fe37092a8ddb09d740d9ff681611ff9aa03dc8"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DCS Colloquia",
+      "htmlTitle": "DCS Colloquia",
+      "link": "https://www.cs.rutgers.edu/news/colloquia/index.php?action=view&colloquium_id=12013&organization_id=1",
+      "displayLink": "www.cs.rutgers.edu",
+      "snippet": "Harnessing the digital universe's big bang is one of the fundamental challenges in Computer Science today. Leveraging on the emergent computational skills,\u00a0...",
+      "htmlSnippet": "Harnessing the digital universe&#39;s big bang is one of the fundamental challenges in Computer Science today. Leveraging on the emergent computational skills,&nbsp;...",
+      "cacheId": "-F4RqhI8_wEJ",
+      "formattedUrl": "https://www.cs.rutgers.edu/news/colloquia/index.php?action=view...",
+      "htmlFormattedUrl": "https://www.cs.rutgers.edu/news/colloquia/index.php?action=view...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmcZBE_c8CVbrOwnGW4LTfZmlzV2DZaviiHrZ-vv7sh8i5-mfzZ4M0Vg",
+            "width": "600",
+            "height": "70"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.cs.rutgers.edu/templates/sas-red/images/rutgers/red_banner.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Kostas Daniilidis Education Positions held Research interests",
+      "htmlTitle": "Kostas Daniilidis Education Positions held Research interests",
+      "link": "https://www.cis.upenn.edu/~kostas/cv/kostas-cv2009.pdf",
+      "displayLink": "www.cis.upenn.edu",
+      "snippet": "Vision, pages 398\u2013404, Kerkyra, Greece, Sep. 20-23, 1999. [25] J. Mendelsohn and K. Daniilidis. Constrained self-calibration. In IEEE Conf. Computer Vision.",
+      "htmlSnippet": "Vision, pages 398\u2013404, Kerkyra, <b>Greece</b>, Sep. 20-23, 1999. [25] J. Mendelsohn and K. Daniilidis. Constrained self-calibration. In IEEE Conf. Computer Vision.",
+      "cacheId": "PSUNsXetFeoJ",
+      "formattedUrl": "https://www.cis.upenn.edu/~kostas/cv/kostas-cv2009.pdf",
+      "htmlFormattedUrl": "https://www.cis.upenn.edu/~kostas/cv/kostas-cv2009.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxmpEh6PgpxC9G2e-PYNoUtWrLwytI2WZbth3BO-OMffIIDjKksm2X5fn",
+            "width": "197",
+            "height": "255"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20090415135140-04'00'",
+            "creator": "TeX",
+            "creationdate": "D:20090415135140-04'00'",
+            "fullbanner": "This is pdfTeX, Version 3.141592-1.40.3-2.2 (Web2C 7.5.6) kpathsea version 3.5.6",
+            "producer": "pdfTeX-1.40.3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///7cc06b5bbd99ff549ab05d4fee73cc857bc59ca37df9b6e3ac68fbd79e5f6d39"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Legal Aspects of Privacy",
+      "htmlTitle": "Legal Aspects of Privacy",
+      "link": "https://www1.cs.columbia.edu/~smb/classes/s18/l_privacy-legal.pdf",
+      "displayLink": "www1.cs.columbia.edu",
+      "snippet": "Feb 19, 2018 ... Vodaphone Greece bought a phone switch with (legally mandated) lawful intercept capability. \u2022 Someone\u2014just whom has never been\u00a0...",
+      "htmlSnippet": "Feb 19, 2018 <b>...</b> Vodaphone <b>Greece</b> bought a phone switch with (legally mandated) lawful intercept capability. \u2022 Someone\u2014just whom has never been&nbsp;...",
+      "cacheId": "ZSJZK2WS1kkJ",
+      "formattedUrl": "https://www1.cs.columbia.edu/~smb/classes/s18/l_privacy-legal.pdf",
+      "htmlFormattedUrl": "https://www1.cs.columbia.edu/~smb/classes/s18/l_privacy-legal.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHAAfbCICgATv37cmPkPGoQO-8E_Mxy6hkmrqA3nhf-zPye1xXBoufSok",
+            "width": "255",
+            "height": "197"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20180219143238-05'00'",
+            "creator": "LaTeX with hyperref package",
+            "creationdate": "D:20180219143238-05'00'",
+            "fullbanner": "This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) kpathsea version 6.2.3",
+            "producer": "pdfTeX-1.40.18"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///e3ff1de6ae805dec42beb6cb656b0b4b4d8f3ba720a94881c4d91ab1232de79e"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "No Slide Title",
+      "htmlTitle": "No Slide Title",
+      "link": "https://www.cs.purdue.edu/homes/ake/courses/cs590w/10appl.ppt",
+      "displayLink": "www.cs.purdue.edu",
+      "snippet": "ICDT'99 Delphi, Greece, Jan. 1997. R. Mattison. Data Warehousing and Data Mining for Telecommunications. Artech House, 1997. R. G. Miller.",
+      "htmlSnippet": "ICDT&#39;99 Delphi, <b>Greece</b>, Jan. 1997. R. Mattison. Data Warehousing and Data Mining for Telecommunications. Artech House, 1997. R. G. Miller.",
+      "cacheId": "PvLAReHdsI4J",
+      "formattedUrl": "https://www.cs.purdue.edu/homes/ake/courses/cs590w/10appl.ppt",
+      "htmlFormattedUrl": "https://www.cs.purdue.edu/homes/ake/courses/cs590w/10appl.ppt",
+      "pagemap": {
+        "metatags": [
+          {
+            "creation date": "6/19/1998 04:38:53",
+            "count paragraphs": "402",
+            "edit minutes": "5651",
+            "author": "Jiawei Han",
+            "count bytes": "301220",
+            "source": "Microsoft PowerPoint",
+            "revision number": "207",
+            "count notes": "0",
+            "links dirty": "no",
+            "presentation format": "On-screen Show",
+            "count mm clips": "0",
+            "scale crop": "no",
+            "count slides hidden": "0",
+            "count slides": "53",
+            "last print date": "9/10/1999 20:38:56",
+            "document template": "C:\\Program Files\\Microsoft Office\\Templates\\Presentation Designs\\Blends.pot",
+            "company": "S.F.U.",
+            "last saved date": "9/24/2000 18:35:41",
+            "last saved by": "han",
+            "word count": "3505"
+          }
+        ]
+      },
+      "mime": "application/vnd.ms-powerpoint",
+      "fileFormat": "Microsoft Powerpoint"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Page Statistics",
+      "htmlTitle": "Page Statistics",
+      "link": "http://www.cs.toronto.edu/~andria/page_stats/page_stats.html",
+      "displayLink": "www.cs.toronto.edu",
+      "snippet": "Aug 2, 1998 ... Previous Day's Totals: ... Web Site Visits By Domain: ... Total Data Transferred: 15.24 Megabytes Today (27603.91 Megabytes Total). Individual Web\u00a0...",
+      "htmlSnippet": "Aug 2, 1998 <b>...</b> Previous Day&#39;s Totals: ... Web Site Visits By Domain: ... Total Data Transferred: 15.24 Megabytes Today (27603.91 Megabytes Total). Individual Web&nbsp;...",
+      "cacheId": "88jw3TNAceYJ",
+      "formattedUrl": "www.cs.toronto.edu/~andria/page_stats/page_stats.html",
+      "htmlFormattedUrl": "www.cs.toronto.edu/~andria/page_stats/page_stats.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThVUNhz6Ej8yCa6BzKaEXf9niG3VajKmvqd2_W6SjQzluiiCoCpNV_eRA",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.cs.toronto.edu/~andria/page_stats/graph2.gif"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Enveloping Users and Computers in a Collaborative 3D Augmented ...",
+      "htmlTitle": "Enveloping Users and Computers in a Collaborative 3D Augmented ...",
+      "link": "http://www.cs.columbia.edu/~feiner/courses/mobwear/resources/butz-iwar99.pdf",
+      "displayLink": "www.cs.columbia.edu",
+      "snippet": "We present EMMIE (Environment Management for Multi- user Information Environments), a prototype experimental user interface to a collaborative augmented\u00a0...",
+      "htmlSnippet": "We present EMMIE (Environment Management for Multi- user Information Environments), a prototype experimental user interface to a collaborative augmented&nbsp;...",
+      "cacheId": "gPOBhcplJkAJ",
+      "formattedUrl": "www.cs.columbia.edu/~feiner/courses/mobwear/resources/butz-iwar99.pdf",
+      "htmlFormattedUrl": "www.cs.columbia.edu/~feiner/courses/mobwear/resources/butz-iwar99.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn_QHyvSmXMnIWde3zm_Fw52mZRi5tkANvFc3ATqDxUUTmLLw6KSsMdao",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:19990819094926-07'00'",
+            "creationdate": "D:19990819094925",
+            "producer": "Acrobat Distiller 4.0 for Windows"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///a486d94dc41d3b51367575a80b3d1a353cd7b830ef89caee14f26ee16736196d"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    }
+  ]
+}
