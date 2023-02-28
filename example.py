@@ -5,11 +5,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_KEY = os.environ.get('API_KEY')
+GOOGLE_SEARCH_API_KEY = os.environ.get('GOOGLE_SEARCH_API_KEY')
 query = "Greece"
 cx = "017576662512468239146:omuauf_lfve"
 
-url = f"https://www.googleapis.com/customsearch/v1?q={query}&key={API_KEY}&cx={cx}"
+url = f"https://www.googleapis.com/customsearch/v1?q={query}&key={GOOGLE_SEARCH_API_KEY}&cx={cx}"
 
 response = requests.get(url)
 
