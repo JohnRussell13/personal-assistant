@@ -10,3 +10,9 @@ https://github.com/acheong08/ChatGPT
 
 # another clone
 https://www.youtube.com/watch?v=98bGwOYoEGg
+
+# openai fix
+https://github.com/openai/openai-python/issues/199
+
+# openai demo
+https://levelup.gitconnected.com/interfacing-chatgpt-with-python-824be63dfa2f

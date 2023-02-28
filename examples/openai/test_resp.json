@@ -1,0 +1,19 @@
+{
+  "id": "cmpl-6ox9SQyCyHXsJtRNawN3x3nn4jD5T",
+  "object": "text_completion",
+  "created": 1677601798,
+  "model": "text-davinci-003",
+  "choices": [
+    {
+      "text": "\n\nNe, nisam \u017eiv.",
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 9,
+    "completion_tokens": 11,
+    "total_tokens": 20
+  }
+}
