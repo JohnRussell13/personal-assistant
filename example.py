@@ -7,7 +7,7 @@ load_dotenv()
 
 GOOGLE_SEARCH_API_KEY = os.environ.get('GOOGLE_SEARCH_API_KEY')
 query = "Greece"
-cx = "017576662512468239146:omuauf_lfve"
+cx = "b63015b410e5247ba"
 
 url = f"https://www.googleapis.com/customsearch/v1?q={query}&key={GOOGLE_SEARCH_API_KEY}&cx={cx}"
 

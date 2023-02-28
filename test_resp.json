@@ -8,343 +8,447 @@
     "request": [
       {
         "title": "Google Custom Search - Greece",
-        "totalResults": "9",
+        "totalResults": "1850000000",
         "searchTerms": "Greece",
-        "count": 9,
+        "count": 10,
         "startIndex": 1,
         "inputEncoding": "utf8",
         "outputEncoding": "utf8",
         "safe": "off",
-        "cx": "017576662512468239146:omuauf_lfve"
+        "cx": "b63015b410e5247ba"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - Greece",
+        "totalResults": "1850000000",
+        "searchTerms": "Greece",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "b63015b410e5247ba"
       }
     ]
   },
   "context": {
-    "title": "CS Curriculum",
-    "facets": [
-      [
-        {
-          "anchor": "Lectures",
-          "label": "lectures",
-          "label_with_op": "more:lectures"
-        }
-      ],
-      [
-        {
-          "anchor": "Assignments",
-          "label": "assignments",
-          "label_with_op": "more:assignments"
-        }
-      ],
-      [
-        {
-          "anchor": "Reference",
-          "label": "reference",
-          "label_with_op": "more:reference"
-        }
-      ]
-    ]
+    "title": "everythin"
   },
   "searchInformation": {
-    "searchTime": 0.192909,
-    "formattedSearchTime": "0.19",
-    "totalResults": "9",
-    "formattedTotalResults": "9"
+    "searchTime": 0.454262,
+    "formattedSearchTime": "0.45",
+    "totalResults": "1850000000",
+    "formattedTotalResults": "1,850,000,000"
   },
   "items": [
     {
       "kind": "customsearch#result",
-      "title": "Untitled",
-      "htmlTitle": "Untitled",
-      "link": "https://www.cis.upenn.edu/~elenimi/GREK017.html",
-      "displayLink": "www.cis.upenn.edu",
-      "snippet": "In this course we will also read and discuss Nikos Kazantzakis' masterpiece \"Zorbas.\" Textbook. All the material is written and compiled by the instructor. It\u00a0...",
-      "htmlSnippet": "In this course we will also read and discuss Nikos Kazantzakis&#39; masterpiece &quot;Zorbas.&quot; Textbook. All the material is written and compiled by the instructor. It&nbsp;...",
-      "cacheId": "0u-RjpdNwBcJ",
-      "formattedUrl": "https://www.cis.upenn.edu/~elenimi/GREK017.html",
-      "htmlFormattedUrl": "https://www.cis.upenn.edu/~elenimi/GREK017.html"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "3D Active Sensing Notes Adapted from the following sources ...",
-      "htmlTitle": "3D Active Sensing Notes Adapted from the following sources ...",
-      "link": "http://www1.cs.columbia.edu/~allen/PHOTOPAPERS/allen_blais_slide.pdf",
-      "displayLink": "www1.cs.columbia.edu",
-      "snippet": "Apr 29, 2006 ... International Summer School \u201cDigital Recording and 3D Modeling\u201d, Aghios Nikolaos, Crete, Greece, 24-29 April 2006.",
-      "htmlSnippet": "Apr 29, 2006 <b>...</b> International Summer School \u201cDigital Recording and 3D Modeling\u201d, Aghios Nikolaos, Crete, <b>Greece</b>, 24-29 April 2006.",
-      "cacheId": "OuT8VRDGuloJ",
-      "formattedUrl": "www1.cs.columbia.edu/~allen/PHOTOPAPERS/allen_blais_slide.pdf",
-      "htmlFormattedUrl": "www1.cs.columbia.edu/~allen/PHOTOPAPERS/allen_blais_slide.pdf",
+      "title": "Visit Greece",
+      "htmlTitle": "Visit <b>Greece</b>",
+      "link": "https://www.visitgreece.gr/",
+      "displayLink": "www.visitgreece.gr",
+      "snippet": "If you are looking for travel inspiration, visitgreece.gr has everything you need to know. Travel ideas, Events, guides, what to do, where to go in Greece.",
+      "htmlSnippet": "If you are looking for travel inspiration, visitgreece.gr has everything you need to know. Travel ideas, Events, guides, what to do, where to go in <b>Greece</b>.",
+      "cacheId": "xQ_0wtv4qMwJ",
+      "formattedUrl": "https://www.visitgreece.gr/",
+      "htmlFormattedUrl": "https://www.visit<b>greece</b>.gr/",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ7mlm1qObFLoc1xWOiRFkgY48Uf43zJswaoMA6JT9Y7Oc0pSCXrC-SeJS",
-            "width": "259",
-            "height": "194"
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1gQPIX1WYxEEp8Yh6KggIunNDU07qnbjRMy4eSqsmhXcag48UsFYMrMNS",
+            "width": "360",
+            "height": "140"
           }
         ],
         "metatags": [
           {
-            "moddate": "D:20070918141614-04'00'",
-            "creationdate": "D:20060419085126+02'00'",
-            "creator": "PScript5.dll Version 5.2.2",
-            "author": "msb",
-            "producer": "Acrobat Distiller 7.0.5 (Windows)",
-            "title": "Microsoft PowerPoint - 09_FBlais_Terrestrial_Laser_Scanning.ppt"
+            "og:image": "https://www.visitgreece.gr/files/i_1226528317_acropolis_1750x680.jpg",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Visit Greece",
+            "og:site_name": "VisitGreece",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "If you are looking for travel inspiration, visitgreece.gr has everything you need to know. Travel ideas, Events, guides, what to do, where to go in Greece.",
+            "og:title": "Visit Greece",
+            "og:locale": "en_150",
+            "og:url": "https://www.visitgreece.gr/",
+            "og:description": "If you are looking for travel inspiration, visitgreece.gr has everything you need to know. Travel ideas, Events, guides, what to do, where to go in Greece.",
+            "twitter:image": "https://www.visitgreece.gr/files/i_1226528317_acropolis_1750x680.jpg"
           }
         ],
         "cse_image": [
           {
-            "src": "x-raw-image:///231dae01afe3a309977c1b76fd6f7096ba092915f67cc852a37dc0ed26cda3bf"
-          }
-        ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "VASILIS F. PAVLIDIS",
-      "htmlTitle": "VASILIS F. PAVLIDIS",
-      "link": "http://www.cs.man.ac.uk/~pavlidiv/VP_CV_short.pdf",
-      "displayLink": "www.cs.man.ac.uk",
-      "snippet": "B.S., Electrical and Computer Engineering, Democritus University of Thrace, Xanthi, Greece, 2000. PROFFESIONAL EXPERIENCE. \u2022 Post-doctoral researcher at the\u00a0...",
-      "htmlSnippet": "B.S., Electrical and Computer Engineering, Democritus University of Thrace, Xanthi, <b>Greece</b>, 2000. PROFFESIONAL EXPERIENCE. \u2022 Post-doctoral researcher at the&nbsp;...",
-      "cacheId": "IQU3ozwkMQsJ",
-      "formattedUrl": "www.cs.man.ac.uk/~pavlidiv/VP_CV_short.pdf",
-      "htmlFormattedUrl": "www.cs.man.ac.uk/~pavlidiv/VP_CV_short.pdf",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFRZwp61EFma5EfOzY494pHspbkqm2kkdkeA_AQOXME__4dbe_zRGIc0M",
-            "width": "197",
-            "height": "255"
-          }
-        ],
-        "metatags": [
-          {
-            "moddate": "D:20120918185008+02'00'",
-            "creationdate": "D:20120918185008+02'00'",
-            "creator": "PScript5.dll Version 5.2.2",
-            "author": "VFP",
-            "producer": "Acrobat Distiller 9.5.0 (Windows)",
-            "title": "Microsoft Word - VP_CV_Sept12_short"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "x-raw-image:///7da8aeb83d548a57705fe7fc76fe37092a8ddb09d740d9ff681611ff9aa03dc8"
-          }
-        ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "DCS Colloquia",
-      "htmlTitle": "DCS Colloquia",
-      "link": "https://www.cs.rutgers.edu/news/colloquia/index.php?action=view&colloquium_id=12013&organization_id=1",
-      "displayLink": "www.cs.rutgers.edu",
-      "snippet": "Harnessing the digital universe's big bang is one of the fundamental challenges in Computer Science today. Leveraging on the emergent computational skills,\u00a0...",
-      "htmlSnippet": "Harnessing the digital universe&#39;s big bang is one of the fundamental challenges in Computer Science today. Leveraging on the emergent computational skills,&nbsp;...",
-      "cacheId": "-F4RqhI8_wEJ",
-      "formattedUrl": "https://www.cs.rutgers.edu/news/colloquia/index.php?action=view...",
-      "htmlFormattedUrl": "https://www.cs.rutgers.edu/news/colloquia/index.php?action=view...",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmcZBE_c8CVbrOwnGW4LTfZmlzV2DZaviiHrZ-vv7sh8i5-mfzZ4M0Vg",
-            "width": "600",
-            "height": "70"
-          }
-        ],
-        "metatags": [
-          {
-            "viewport": "width=device-width, initial-scale=1.0"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://www.cs.rutgers.edu/templates/sas-red/images/rutgers/red_banner.png"
+            "src": "https://www.visitgreece.gr/files/i_1226528317_acropolis_1750x680.jpg"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Kostas Daniilidis Education Positions held Research interests",
-      "htmlTitle": "Kostas Daniilidis Education Positions held Research interests",
-      "link": "https://www.cis.upenn.edu/~kostas/cv/kostas-cv2009.pdf",
-      "displayLink": "www.cis.upenn.edu",
-      "snippet": "Vision, pages 398\u2013404, Kerkyra, Greece, Sep. 20-23, 1999. [25] J. Mendelsohn and K. Daniilidis. Constrained self-calibration. In IEEE Conf. Computer Vision.",
-      "htmlSnippet": "Vision, pages 398\u2013404, Kerkyra, <b>Greece</b>, Sep. 20-23, 1999. [25] J. Mendelsohn and K. Daniilidis. Constrained self-calibration. In IEEE Conf. Computer Vision.",
-      "cacheId": "PSUNsXetFeoJ",
-      "formattedUrl": "https://www.cis.upenn.edu/~kostas/cv/kostas-cv2009.pdf",
-      "htmlFormattedUrl": "https://www.cis.upenn.edu/~kostas/cv/kostas-cv2009.pdf",
+      "title": "Greece - Wikipedia",
+      "htmlTitle": "<b>Greece</b> - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Greece",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Greece, officially the Hellenic Republic, is an archipelagic country in Southeast Europe. It is situated on the southern tip of the Balkan Peninsula,\u00a0...",
+      "htmlSnippet": "<b>Greece</b>, officially the Hellenic Republic, is an archipelagic country in Southeast Europe. It is situated on the southern tip of the Balkan Peninsula,&nbsp;...",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Greece",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Greece</b>",
       "pagemap": {
-        "cse_thumbnail": [
+        "hcard": [
           {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxmpEh6PgpxC9G2e-PYNoUtWrLwytI2WZbth3BO-OMffIIDjKksm2X5fn",
-            "width": "197",
-            "height": "255"
+            "fn": "Hellenic Republic"
           }
         ],
         "metatags": [
           {
-            "moddate": "D:20090415135140-04'00'",
-            "creator": "TeX",
-            "creationdate": "D:20090415135140-04'00'",
-            "fullbanner": "This is pdfTeX, Version 3.141592-1.40.3-2.2 (Web2C 7.5.6) kpathsea version 3.5.6",
-            "producer": "pdfTeX-1.40.3"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "x-raw-image:///7cc06b5bbd99ff549ab05d4fee73cc857bc59ca37df9b6e3ac68fbd79e5f6d39"
-          }
-        ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Legal Aspects of Privacy",
-      "htmlTitle": "Legal Aspects of Privacy",
-      "link": "https://www1.cs.columbia.edu/~smb/classes/s18/l_privacy-legal.pdf",
-      "displayLink": "www1.cs.columbia.edu",
-      "snippet": "Feb 19, 2018 ... Vodaphone Greece bought a phone switch with (legally mandated) lawful intercept capability. \u2022 Someone\u2014just whom has never been\u00a0...",
-      "htmlSnippet": "Feb 19, 2018 <b>...</b> Vodaphone <b>Greece</b> bought a phone switch with (legally mandated) lawful intercept capability. \u2022 Someone\u2014just whom has never been&nbsp;...",
-      "cacheId": "ZSJZK2WS1kkJ",
-      "formattedUrl": "https://www1.cs.columbia.edu/~smb/classes/s18/l_privacy-legal.pdf",
-      "htmlFormattedUrl": "https://www1.cs.columbia.edu/~smb/classes/s18/l_privacy-legal.pdf",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHAAfbCICgATv37cmPkPGoQO-8E_Mxy6hkmrqA3nhf-zPye1xXBoufSok",
-            "width": "255",
-            "height": "197"
-          }
-        ],
-        "metatags": [
-          {
-            "moddate": "D:20180219143238-05'00'",
-            "creator": "LaTeX with hyperref package",
-            "creationdate": "D:20180219143238-05'00'",
-            "fullbanner": "This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) kpathsea version 6.2.3",
-            "producer": "pdfTeX-1.40.18"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "x-raw-image:///e3ff1de6ae805dec42beb6cb656b0b4b4d8f3ba720a94881c4d91ab1232de79e"
-          }
-        ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "No Slide Title",
-      "htmlTitle": "No Slide Title",
-      "link": "https://www.cs.purdue.edu/homes/ake/courses/cs590w/10appl.ppt",
-      "displayLink": "www.cs.purdue.edu",
-      "snippet": "ICDT'99 Delphi, Greece, Jan. 1997. R. Mattison. Data Warehousing and Data Mining for Telecommunications. Artech House, 1997. R. G. Miller.",
-      "htmlSnippet": "ICDT&#39;99 Delphi, <b>Greece</b>, Jan. 1997. R. Mattison. Data Warehousing and Data Mining for Telecommunications. Artech House, 1997. R. G. Miller.",
-      "cacheId": "PvLAReHdsI4J",
-      "formattedUrl": "https://www.cs.purdue.edu/homes/ake/courses/cs590w/10appl.ppt",
-      "htmlFormattedUrl": "https://www.cs.purdue.edu/homes/ake/courses/cs590w/10appl.ppt",
-      "pagemap": {
-        "metatags": [
-          {
-            "creation date": "6/19/1998 04:38:53",
-            "count paragraphs": "402",
-            "edit minutes": "5651",
-            "author": "Jiawei Han",
-            "count bytes": "301220",
-            "source": "Microsoft PowerPoint",
-            "revision number": "207",
-            "count notes": "0",
-            "links dirty": "no",
-            "presentation format": "On-screen Show",
-            "count mm clips": "0",
-            "scale crop": "no",
-            "count slides hidden": "0",
-            "count slides": "53",
-            "last print date": "9/10/1999 20:38:56",
-            "document template": "C:\\Program Files\\Microsoft Office\\Templates\\Presentation Designs\\Blends.pot",
-            "company": "S.F.U.",
-            "last saved date": "9/24/2000 18:35:41",
-            "last saved by": "han",
-            "word count": "3505"
-          }
-        ]
-      },
-      "mime": "application/vnd.ms-powerpoint",
-      "fileFormat": "Microsoft Powerpoint"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Page Statistics",
-      "htmlTitle": "Page Statistics",
-      "link": "http://www.cs.toronto.edu/~andria/page_stats/page_stats.html",
-      "displayLink": "www.cs.toronto.edu",
-      "snippet": "Aug 2, 1998 ... Previous Day's Totals: ... Web Site Visits By Domain: ... Total Data Transferred: 15.24 Megabytes Today (27603.91 Megabytes Total). Individual Web\u00a0...",
-      "htmlSnippet": "Aug 2, 1998 <b>...</b> Previous Day&#39;s Totals: ... Web Site Visits By Domain: ... Total Data Transferred: 15.24 Megabytes Today (27603.91 Megabytes Total). Individual Web&nbsp;...",
-      "cacheId": "88jw3TNAceYJ",
-      "formattedUrl": "www.cs.toronto.edu/~andria/page_stats/page_stats.html",
-      "htmlFormattedUrl": "www.cs.toronto.edu/~andria/page_stats/page_stats.html",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThVUNhz6Ej8yCa6BzKaEXf9niG3VajKmvqd2_W6SjQzluiiCoCpNV_eRA",
-            "width": "259",
-            "height": "194"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "http://www.cs.toronto.edu/~andria/page_stats/graph2.gif"
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Greece - Wikipedia",
+            "og:image:height": "800",
+            "format-detection": "telephone=no"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Enveloping Users and Computers in a Collaborative 3D Augmented ...",
-      "htmlTitle": "Enveloping Users and Computers in a Collaborative 3D Augmented ...",
-      "link": "http://www.cs.columbia.edu/~feiner/courses/mobwear/resources/butz-iwar99.pdf",
-      "displayLink": "www.cs.columbia.edu",
-      "snippet": "We present EMMIE (Environment Management for Multi- user Information Environments), a prototype experimental user interface to a collaborative augmented\u00a0...",
-      "htmlSnippet": "We present EMMIE (Environment Management for Multi- user Information Environments), a prototype experimental user interface to a collaborative augmented&nbsp;...",
-      "cacheId": "gPOBhcplJkAJ",
-      "formattedUrl": "www.cs.columbia.edu/~feiner/courses/mobwear/resources/butz-iwar99.pdf",
-      "htmlFormattedUrl": "www.cs.columbia.edu/~feiner/courses/mobwear/resources/butz-iwar99.pdf",
+      "title": "Greece Central School District / Homepage",
+      "htmlTitle": "<b>Greece</b> Central School District / Homepage",
+      "link": "https://www.greececsd.org/",
+      "displayLink": "www.greececsd.org",
+      "snippet": "Greece Central's Office of Student Transportation Services is now accepting 2023-24 transportation requests for private, parochial, and charter school students,\u00a0...",
+      "htmlSnippet": "<b>Greece</b> Central&#39;s Office of Student Transportation Services is now accepting 2023-24 transportation requests for private, parochial, and charter school students,&nbsp;...",
+      "cacheId": "cPLusiDdXuEJ",
+      "formattedUrl": "https://www.greececsd.org/",
+      "htmlFormattedUrl": "https://www.<b>greece</b>csd.org/",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn_QHyvSmXMnIWde3zm_Fw52mZRi5tkANvFc3ATqDxUUTmLLw6KSsMdao",
-            "width": "259",
-            "height": "194"
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_VHOaUg9vmRMsIh8I0d1sQ7emIJE0x3wTeE9vLcAeR1oY60fYaK931I0S",
+            "width": "288",
+            "height": "175"
+          }
+        ],
+        "document": [
+          {
+            "siteid": "4"
           }
         ],
         "metatags": [
           {
-            "moddate": "D:19990819094926-07'00'",
-            "creationdate": "D:19990819094925",
-            "producer": "Acrobat Distiller 4.0 for Windows"
+            "og:type": "website",
+            "fb:app_id": "411584262324304",
+            "twitter:title": "Greece Central School District / Homepage",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:title": "Greece Central School District / Homepage",
+            "og:url": "http%3A%2F%2Fwww.greececsd.org%2Fsite%2FDefault.aspx%3FDomainID%3D4"
           }
         ],
         "cse_image": [
           {
-            "src": "x-raw-image:///a486d94dc41d3b51367575a80b3d1a353cd7b830ef89caee14f26ee16736196d"
+            "src": "https://www.greececsd.org/cms/lib/NY01913679/Centricity/ModuleInstance/316/large/Addams-Family.jpg"
           }
         ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Home - Town of Greece NY",
+      "htmlTitle": "Home - Town of <b>Greece</b> NY",
+      "link": "https://greeceny.gov/",
+      "displayLink": "greeceny.gov",
+      "snippet": "Our goal is to look for ways to improve communication with our residents & business by distributing Town of Greece news, information & community events.",
+      "htmlSnippet": "Our goal is to look for ways to improve communication with our residents &amp; business by distributing Town of <b>Greece</b> news, information &amp; community events.",
+      "cacheId": "LL7NUDa53vIJ",
+      "formattedUrl": "https://greeceny.gov/",
+      "htmlFormattedUrl": "https://<b>greece</b>ny.gov/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRN4uH-1lju0ieJDtR6juiJWY05vzi_4dQQj8EDcw-0kDtf8FbTPTFFLOlx",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://greeceny.gov/images/icon.png",
+            "og:type": "website",
+            "og:site_name": "Town of Greece NY",
+            "handheldfriendly": "True",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "mobileoptimized": "320",
+            "og:title": "Home - Town of Greece NY",
+            "og:url": "https://greeceny.gov/",
+            "og:description": "Our goal is to look for ways to improve communication with our residents & business by distributing Town of Greece news, information & community events."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://greeceny.gov/images/icon.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Greece | Islands, Cities, Language, & History | Britannica",
+      "htmlTitle": "<b>Greece</b> | Islands, Cities, Language, &amp; History | Britannica",
+      "link": "https://www.britannica.com/place/Greece",
+      "displayLink": "www.britannica.com",
+      "snippet": "5 days ago ... Greece is a country that is at once European, Balkan, Mediterranean, and Near Eastern. It lies at the juncture of Europe, Asia, and Africa and\u00a0...",
+      "htmlSnippet": "5 days ago <b>...</b> <b>Greece</b> is a country that is at once European, Balkan, Mediterranean, and Near Eastern. It lies at the juncture of Europe, Asia, and Africa and&nbsp;...",
+      "cacheId": "AUOkK1XkiywJ",
+      "formattedUrl": "https://www.britannica.com/place/Greece",
+      "htmlFormattedUrl": "https://www.britannica.com/place/<b>Greece</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Ed-PTXz93P1WMH-NqOZCeyfG8o3TY_aGMjkoMzMJ5yc39LfXfcKbAwM",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.britannica.com/49/1049-050-3AD6578E/Flag-Greece.jpg",
+            "twitter:card": "summary_large_image",
+            "og:type": "ARTICLE",
+            "og:site_name": "Encyclopedia Britannica",
+            "og:title": "Greece | Islands, Cities, Language, & History",
+            "og:image:type": "image/jpeg",
+            "fb:pages": "74442380906",
+            "og:description": "Greece,  the southernmost of the countries of the Balkan Peninsula. Geography has greatly influenced the country\u2019s development. Mountains historically restricted internal communications, but the sea opened up wider horizons. The total land area of Greece (one-fifth of which is made up of the Greek islands) is comparable in size to England or the U.S. state of Alabama. Greece has more than 2,000 islands, of which about 170 are inhabited; some of the easternmost Aegean islands lie just a few miles off the Turkish coast. The country\u2019s capital is Athens, which expanded rapidly in the second half of the 20th century.",
+            "twitter:image": "https://cdn.britannica.com/49/1049-050-3AD6578E/Flag-Greece.jpg",
+            "fb:app_id": "1887621861548296",
+            "twitter:site": "@britannica",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Greece,  the southernmost of the countries of the Balkan Peninsula. Geography has greatly influenced the country\u2019s development. Mountains historically restricted internal communications, but the sea opened up wider horizons. The total land area of Greece (one-fifth of which is made up of the Greek islands) is comparable in size to England or the U.S. state of Alabama. Greece has more than 2,000 islands, of which about 170 are inhabited; some of the easternmost Aegean islands lie just a few miles off the Turkish coast. The country\u2019s capital is Athens, which expanded rapidly in the second half of the 20th century.",
+            "og:url": "https://www.britannica.com/place/Greece"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.britannica.com/49/1049-050-3AD6578E/Flag-Greece.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Greece - United States Department of State",
+      "htmlTitle": "<b>Greece</b> - United States Department of State",
+      "link": "https://www.state.gov/countries-areas/greece/",
+      "displayLink": "www.state.gov",
+      "snippet": "This large, well-organized community cultivates close political and cultural ties with Greece. The U.S. Embassy in Athens and the Consulate General in\u00a0...",
+      "htmlSnippet": "This large, well-organized community cultivates close political and cultural ties with <b>Greece</b>. The U.S. Embassy in Athens and the Consulate General in&nbsp;...",
+      "cacheId": "DOJ-SB28ARcJ",
+      "formattedUrl": "https://www.state.gov/countries-areas/greece/",
+      "htmlFormattedUrl": "https://www.state.gov/countries-areas/<b>greece</b>/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jWETtbXKtKBiLjoFb81omztMXSw91HObC0NWgso92KPHj7t9rwusrVx4",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "United States Department of State",
+            "og:title": "Greece - United States Department of State",
+            "og:image:height": "675",
+            "og:image:type": "image/png",
+            "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-270x270.png",
+            "twitter:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+            "msapplication-tap-highlight": "no",
+            "article:modified_time": "2021-08-12T15:47:48+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://www.state.gov/countries-areas/greece/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "COVID-19 Information - U.S. Embassy & Consulate in Greece",
+      "htmlTitle": "COVID-19 Information - U.S. Embassy &amp; Consulate in <b>Greece</b>",
+      "link": "https://gr.usembassy.gov/covid-19-information/",
+      "displayLink": "gr.usembassy.gov",
+      "snippet": "Oct 5, 2022 ... Entry Restrictions to Greece Relaxed: As of May 1, 2022, travelers entering Greece are no longer required to display a certificate of\u00a0...",
+      "htmlSnippet": "Oct 5, 2022 <b>...</b> Entry Restrictions to <b>Greece</b> Relaxed: As of May 1, 2022, travelers entering <b>Greece</b> are no longer required to display a certificate of&nbsp;...",
+      "cacheId": "k-32UQMJXoYJ",
+      "formattedUrl": "https://gr.usembassy.gov/covid-19-information/",
+      "htmlFormattedUrl": "https://gr.usembassy.gov/covid-19-information/",
+      "pagemap": {
+        "BreadcrumbList": [
+          {}
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2022-10-05T04:30:26+00:00",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#ffffff",
+            "og:site_name": "U.S. Embassy & Consulate in Greece",
+            "author": "lanemv",
+            "og:title": "COVID-19 Information",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "msapplication-tileimage": "/wp-content/themes/cms3/dist/images/favicon/ms-icon-144x144.png",
+            "og:description": "COVID-19 Information Last updated: 11/02/2022 The CDC\u2019s Order requiring proof of vaccination for non-citizen nonimmigrants to travel to the United States",
+            "twitter:creator": "@USEmbassyAthens",
+            "article:publisher": "http://www.facebook.com/pages/Athens-Greece/US-EMBASSY-ATHENS/176748609063",
+            "twitter:data1": "lanemv",
+            "twitter:data2": "6 minutes",
+            "twitter:site": "@USEmbassyAthens",
+            "article:modified_time": "2022-11-02T09:50:09+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "position": "1",
+            "og:url": "https://gr.usembassy.gov/covid-19-information/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Greece International Travel Information",
+      "htmlTitle": "<b>Greece</b> International Travel Information",
+      "link": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Greece.html",
+      "displayLink": "travel.state.gov",
+      "snippet": "Jul 5, 2019 ... TOURIST VISA REQUIRED: Not required for stays less than 90 days; visa required for all official and diplomatic passport holders. If traveling on\u00a0...",
+      "htmlSnippet": "Jul 5, 2019 <b>...</b> TOURIST VISA REQUIRED: Not required for stays less than 90 days; visa required for all official and diplomatic passport holders. If traveling on&nbsp;...",
+      "cacheId": "nq2y0pNFN-cJ",
+      "formattedUrl": "https://travel.state.gov/content/travel/en/international.../Greece.html",
+      "htmlFormattedUrl": "https://travel.state.gov/content/travel/en/international.../<b>Greece</b>.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "/content/dam/tsg-global/tsg_link_img_display.jpg",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+            "og:description": "Greece international travel information and Travel Advisory"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "/content/dam/tsg-global/tsg_link_img_display.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Greece \u2013 EU member country profile | European Union",
+      "htmlTitle": "<b>Greece</b> \u2013 EU member country profile | European Union",
+      "link": "https://european-union.europa.eu/principles-countries-history/country-profiles/greece_en",
+      "displayLink": "european-union.europa.eu",
+      "snippet": "How Greece is represented in the different EU institutions, how much money it gives and receives, its political system and trade figures.",
+      "htmlSnippet": "How <b>Greece</b> is represented in the different EU institutions, how much money it gives and receives, its political system and trade figures.",
+      "cacheId": "DgOzCqEjAC4J",
+      "formattedUrl": "https://european-union.europa.eu/principles-countries-history/.../greece_en",
+      "htmlFormattedUrl": "https://european-union.europa.eu/principles-countries-history/.../<b>greece</b>_en",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9dSm6ZB0aSBKU5VWYGwC5PUpV4MbYvLrR-RpZJYIdEIvRlvfPoE1yIhK1",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:determiner": "auto",
+            "og:image": "https://european-union.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2022-02/Flag_of_Greece.png?itok=2bF47wYG",
+            "og:type": "website",
+            "og:image:alt": "Greece flag",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Greece \u2013 EU member country profile | European Union",
+            "og:site_name": "European Union",
+            "handheldfriendly": "true",
+            "twitter:url": "https://european-union.europa.eu/principles-countries-history/country-profiles/greece_en",
+            "og:title": "Greece \u2013 EU member country profile | European Union",
+            "og:description": "How Greece is represented in the different EU institutions, how much money it gives and receives, its political system and trade figures.",
+            "twitter:image": "https://european-union.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2022-02/Flag_of_Greece.png?itok=2bF47wYG",
+            "twitter:image:alt": "Greece flag",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "How Greece is represented in the different EU institutions, how much money it gives and receives, its political system and trade figures.",
+            "mobileoptimized": "width",
+            "og:url": "https://european-union.europa.eu/principles-countries-history/country-profiles/greece_en"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://european-union.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2022-02/Flag_of_Greece.png?itok=2bF47wYG"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Greece travel advice - GOV.UK",
+      "htmlTitle": "<b>Greece</b> travel advice - GOV.UK",
+      "link": "https://www.gov.uk/foreign-travel-advice/greece",
+      "displayLink": "www.gov.uk",
+      "snippet": "7 days ago ... Latest FCDO travel advice for Greece including on entry requirements, safety and security and local laws and customs.",
+      "htmlSnippet": "7 days ago <b>...</b> Latest FCDO travel advice for <b>Greece</b> including on entry requirements, safety and security and local laws and customs.",
+      "cacheId": "nlKFXVVi0_4J",
+      "formattedUrl": "https://www.gov.uk/foreign-travel-advice/greece",
+      "htmlFormattedUrl": "https://www.gov.uk/foreign-travel-advice/<b>greece</b>",
+      "pagemap": {
+        "metatags": [
+          {
+            "govuk:content-id": "c5018a34-3aaa-40e4-b90f-cf73539a0978",
+            "og:image": "/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+            "twitter:card": "summary",
+            "govuk:rendering-app": "government-frontend",
+            "theme-color": "#0b0c0c",
+            "og:site_name": "GOV.UK",
+            "govuk:themes": "world/all",
+            "govuk:primary-publishing-organisation": "Foreign, Commonwealth & Development Office",
+            "govuk:content-has-history": "true",
+            "govuk:taxon-slugs": "living-in-greece,travelling-to-greece",
+            "govuk:components_gem_version": "34.12.0",
+            "og:description": "Latest FCDO travel advice for Greece including on entry requirements, safety and security and local laws and customs.",
+            "govuk:taxon-ids": "f84f2bd6-e9dd-4078-9099-25b133d64211,c739aac7-c7c3-44d5-bd10-570ee66d3997",
+            "govuk:taxon-id": "f84f2bd6-e9dd-4078-9099-25b133d64211",
+            "govuk:taxon-slug": "living-in-greece",
+            "govuk:analytics:organisations": "<D1315>",
+            "og:type": "article",
+            "govuk:rendering-application": "government-frontend",
+            "govuk:format": "travel_advice",
+            "og:title": "Greece travel advice",
+            "govuk:public-updated-at": "2023-02-21T13:59:42.000+00:00",
+            "govuk:publishing-app": "travel-advice-publisher",
+            "viewport": "width=device-width, initial-scale=1",
+            "govuk:updated-at": "2023-02-27T14:42:38.812Z",
+            "govuk:first-published-at": "2013-03-15T00:00:00.000+00:00",
+            "og:url": "https://www.gov.uk/foreign-travel-advice/greece",
+            "govuk:schema-name": "travel_advice"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png"
+          }
+        ]
+      }
     }
   ]
 }
