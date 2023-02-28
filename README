@@ -14,7 +14,8 @@ This is a brief description of AI PA project.
 Here are the installation instructions for this project:
 
 - Install python
-- Install all required packages
+- Install all required packages by running:
+    pip install -r requirements.txt
 - Create .env file using .env.example as template
 - Have fun
 
