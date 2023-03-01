@@ -18,13 +18,13 @@ def record(seconds):
 	FILENAME = config['RECORD']['FILENAME']
 
 	# create audio interface and start recording
-	print('Started recording')
 	p = pyaudio.PyAudio()
 	stream = p.open(format = SAMPLE_FORMAT,
 					channels = CHANNELS,
 					rate = FS,
 					frames_per_buffer=CHUNK,
 					input=True)
+	print('Started recording')
 
 	frames = []
 	for i in range(0, int(FS / CHUNK * seconds)):
@@ -114,7 +114,7 @@ def play():
 	# remove temp file
 	# os.remove(FILENAME) 
 
-record(3)
+record(10)
 inputMessage = transcribe()
 chatbotMessage = chatbot(inputMessage)
 synth(chatbotMessage)

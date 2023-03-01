@@ -5,7 +5,7 @@ RECORD:
   FILENAME: res/input.wav
 TRASCRIBE:
   MODEL_TYPE: base
-  LANGUAGE: Serbian
+  LANGUAGE: English
   FILENAME: res/input.txt
 GOOGLE_SEARCH:
   CX: b63015b410e5247ba
@@ -16,4 +16,4 @@ OPENAI:
   FILENAME: res/output.txt
 SYNTH:
   FILENAME: res/output.wav
-  LANGUAGE: sr
+  LANGUAGE: en
