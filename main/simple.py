@@ -1,77 +1,83 @@
-def record():
+from dotenv import load_dotenv
+import yaml
+
+# hidden and public config
+load_dotenv()
+with open('config.yaml') as f:
+	config = yaml.load(f, Loader=yaml.FullLoader)
+
+def record(seconds):
 	import pyaudio
 	import wave
 
-	chunk = 1024  # Record in chunks of 1024 samples
-	sample_format = pyaudio.paInt16  # 16 bits per sample
-	channels = 2
-	fs = 44100  # Record at 44100 samples per second
-	seconds = 3
-	filename = "temp.wav"
+	# config
+	CHUNK = config['RECORD']['CHUNK']
+	SAMPLE_FORMAT = pyaudio.paInt16
+	CHANNELS = config['RECORD']['CHANNELS']
+	FS = config['RECORD']['FS']
+	FILENAME = config['RECORD']['FILENAME']
 
-	p = pyaudio.PyAudio()  # Create an interface to PortAudio
-
-	print('Recording')
-
-	stream = p.open(format=sample_format,
-					channels=channels,
-					rate=fs,
-					frames_per_buffer=chunk,
+	# create audio interface and start recording
+	print('Started recording')
+	p = pyaudio.PyAudio()
+	stream = p.open(format = SAMPLE_FORMAT,
+					channels = CHANNELS,
+					rate = FS,
+					frames_per_buffer=CHUNK,
 					input=True)
 
-	frames = []  # Initialize array to store frames
-
-	# Store data in chunks for 3 seconds
-	for i in range(0, int(fs / chunk * seconds)):
-		data = stream.read(chunk)
+	frames = []
+	for i in range(0, int(FS / CHUNK * seconds)):
+		data = stream.read(CHUNK)
 		frames.append(data)
 
-	# Stop and close the stream 
+	# stop recording and close audio interface
 	stream.stop_stream()
 	stream.close()
-	# Terminate the PortAudio interface
 	p.terminate()
-
 	print('Finished recording')
 
-	# Save the recorded data as a WAV file
-	wf = wave.open(filename, 'wb')
-	wf.setnchannels(channels)
-	wf.setsampwidth(p.get_sample_size(sample_format))
-	wf.setframerate(fs)
+	# save as file
+	wf = wave.open(FILENAME, 'wb')
+	wf.setnchannels(CHANNELS)
+	wf.setsampwidth(p.get_sample_size(SAMPLE_FORMAT))
+	wf.setframerate(FS)
 	wf.writeframes(b''.join(frames))
 	wf.close()
 
 def transcribe():
-	# turn off anoying TF messages
+	# HACK -- turn off anoying TF messages
 	import os
 	os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 	import whisper
 
-	model = whisper.load_model("base")
-	result = model.transcribe("temp.wav", fp16 = False, language = 'English')
+	MODEL_TYPE = config['TRASCRIBE']['MODEL_TYPE']
+	WAV_FILENAME = config['RECORD']['FILENAME']
+	LANGUAGE = config['TRASCRIBE']['LANGUAGE']
+	TXT_FILENAME = config['TRASCRIBE']['FILENAME']
 
-	os.remove("temp.wav") 
+	# transcribe 
+	model = whisper.load_model(MODEL_TYPE)
+	result = model.transcribe(WAV_FILENAME, fp16 = False, language = LANGUAGE)
+
+	# os.remove(FILENAME)
+
+	with open(TXT_FILENAME, 'w') as f:
+		f.write(result['text'])
 
 	return result['text']
 
 def chatbot(message):
 	import openai
 	import os
-	from dotenv import load_dotenv
-	import yaml
-
-	# hidden and public config
-	load_dotenv()
-	with open('config.yaml') as f:
-		config = yaml.load(f, Loader=yaml.FullLoader)
 
 	# extract config
 	openai.api_key = os.environ.get('OPENAI_API_KEY')
 	MODEL_ENGINE = config['OPENAI']['MODEL_ENGINE']
 	MAX_TOKENS = config['OPENAI']['MAX_TOKENS']
 	TEMPERATURE = config['OPENAI']['TEMPERATURE']
+	TXT_FILENAME = config['OPENAI']['FILENAME']
 
 	# send request
 	completion = openai.Completion.create(prompt = message,
@@ -79,21 +85,37 @@ def chatbot(message):
 										max_tokens = MAX_TOKENS,
 										temperature = TEMPERATURE)
 
+	with open(TXT_FILENAME, 'w') as f:
+		f.write(completion['choices'][0]['text'])
+
 	return completion['choices'][0]['text']
 
 def synth(message):
 	import gtts
 
-	tts = gtts.gTTS(message)
-	tts.save("temp.wav")
+	# config
+	WAV_FILENAME = config['SYNTH']['FILENAME']
+	LANGUAGE = config['SYNTH']['LANGUAGE']
+
+	# synthesize voice output
+	tts = gtts.gTTS(message, lang = LANGUAGE)
+	tts.save(WAV_FILENAME)
 
 def play():
 	import playsound
 	import os
-	playsound.playsound("temp.wav")
-	os.remove("temp.wav") 
 
-record()
-chatbotMessage = chatbot("Hello there")
+	# config
+	FILENAME = config['SYNTH']['FILENAME']
+
+	# play output
+	playsound.playsound(FILENAME)
+
+	# remove temp file
+	# os.remove(FILENAME) 
+
+record(3)
+inputMessage = transcribe()
+chatbotMessage = chatbot(inputMessage)
 synth(chatbotMessage)
 play()

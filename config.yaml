@@ -1,6 +1,19 @@
+RECORD:
+  CHUNK: 1024
+  CHANNELS: 2
+  FS: 44100
+  FILENAME: res/input.wav
+TRASCRIBE:
+  MODEL_TYPE: base
+  LANGUAGE: Serbian
+  FILENAME: res/input.txt
 GOOGLE_SEARCH:
   CX: b63015b410e5247ba
 OPENAI:
   MODEL_ENGINE: text-davinci-003
   MAX_TOKENS: 1024
   TEMPERATURE: 0.8
+  FILENAME: res/output.txt
+SYNTH:
+  FILENAME: res/output.wav
+  LANGUAGE: sr
