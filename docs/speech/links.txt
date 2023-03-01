@@ -4,3 +4,10 @@ https://www.assemblyai.com/blog/the-top-free-speech-to-text-apis-and-open-source
 # easy for python
 https://github.com/mozilla/DeepSpeech/releases/tag/v0.9.3
 https://deepspeech.readthedocs.io/en/r0.9/?badge=latest
+
+# open source easy, python, and very accurate
+https://medium.com/geekculture/automatic-audio-transcription-with-python-and-openai-whisper-9cd1ab6a24b0
+
+# disable TF messages
+https://stackoverflow.com/questions/35911252/disable-tensorflow-debugging-information/42121886#42121886
+https://github.com/openai/whisper/discussions/301
