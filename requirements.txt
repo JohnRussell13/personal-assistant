@@ -2,4 +2,6 @@ requests
 python-dotenv
 pyyaml
 openai
+playsound
+gTTS
 git+https://github.com/openai/whisper.git
