@@ -5,3 +5,6 @@ openai
 playsound
 gTTS
 git+https://github.com/openai/whisper.git
+pydub
+PyAudio
+playsound

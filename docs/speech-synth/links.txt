@@ -1,2 +1,5 @@
 # google translate text to sound example
 https://www.thepythoncode.com/article/convert-text-to-speech-in-python
+
+# play without saving
+https://blog.furas.pl/python-how-to-play-mp3-from-gtts-as-bytes-without-saving-on-disk-gb.html
